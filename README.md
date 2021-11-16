@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubh-8869
+- 👋 Hi, I’m Shubham Yadav (@shubh-8869)
 - 👀 I’m interested in mostly iOS Apps, 
 - 🌱 I’m currently learning Data Structures and Algos, and some new technology, maybe ReactNative to help me out as iOS App Dev
 - 💞️ I’m looking to collaborate on anything i may help,
